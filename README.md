@@ -27,3 +27,9 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/spideyslayed/DevFolio.git
+
+## Submission
+
+This portfolio was created as part of the web development course.
+It demonstrates semantic HTML, CSS Flexbox, CSS Grid, responsive
+design, and GitHub Pages deployment.
